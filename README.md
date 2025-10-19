@@ -45,7 +45,7 @@ classmates and the course staff. You can do that on the
 ### Office Hours
 
 If you need help with any of the course materials, you can attend office hours.
-Office hours are held before classs on wednesdays or online via Google Meet, by
+Office hours are held before class on wednesdays or online via Google Meet, by
 emailing the course staff to schedule.
 
 ## Assignments
@@ -57,7 +57,7 @@ The majority of the grading of the course is related to team work. However,
 there are a number of assignments related to software development, where you are
 graded individually. These assignments must be submitted in the following way:
 
-- All code must be commited to _your own_ code repository (which is either a
+- All code must be committed to _your own_ code repository (which is either a
   "copy" or a "fork" of an original codebase for the assignment), hosted on
   GitHub
 - The application must be deployed and accessible via a public URL (this will
