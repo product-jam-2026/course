@@ -34,6 +34,45 @@ General structure of the course will be:
 - Learn the application of web technologies towards the delivery and deployment
   of a functional product
 
+## Resources
+
+### Setup & getting started
+
+- [Setup Guide](assignments/00.md)
+
+### Slides
+
+All slides from the lessons will be
+[available here](https://docs.google.com/presentation/d/1umIYeaHcx8Hgvq3QoiKuCYP_HA2QeyPShoi-id0SjWU/edit?usp=sharing).
+
+### Bootcamp
+
+If you have no prior experience in HTML, CSS, or JavaScript, or, you want to
+refresh your knowledge, then it is recommended you take the following free
+courses at Codecademy, in the suggested order below.
+
+1. [HTML & CSS | Code with Mosh](https://www.youtube.com/playlist?list=PLaSptwZwRsIzSioCK1Cp78S_lp_yZUTbX)
+2. [JavaScript | Code with Mosh](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+3. [React | Code with Mosh](https://www.youtube.com/watch?v=SqcY0GlETPk)
+4. [Learn HTML on Codecademy](https://www.codecademy.com/learn/learn-html)
+5. [Learn CSS on Codecademy](https://www.codecademy.com/learn/learn-css)
+6. [Learn CSS: Flexbox and Grid on Codecademy](https://www.codecademy.com/learn/learn-css-flexbox-and-grid)
+7. [Learn JavaScript on Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
+8. [Learn React on Codecademy](https://www.codecademy.com/learn/react-101)
+
+### Videos
+
+In previous years, some videos were made to help explain specific concepts or
+integrations within the stater kit. The kit has changed somewhat from previous
+years, but the videos may still be useful:
+
+- [Configuring Vercel For Your Project/Repository (2023)](https://youtu.be/wBDSPLGXgok)
+- [Vercel Environment Variables Overview (2022)](https://youtu.be/qHtbwt_Tk6Y)
+- [Supabase (Database) UI Overview (2022)](https://youtu.be/idNq2M7EhZs)
+- [Next/Supabase API Overview (2022)](https://youtu.be/N4Oc7OMuBqw)
+- [Google Drive Integration Overview (2022)](https://youtu.be/4RjImTNU2ZA)
+- [Random Team Generator Overview (2022)](https://youtu.be/Kxd6vByPQIw)
+
 ## Discussion
 
 ### Discussion Forum
@@ -96,42 +135,3 @@ based on the following criteria:
 - Evidence of solutions based on learning materials
 - Alignment with the design prototype
 - Alignment with overall product goals
-
-## Resources
-
-### Setup & getting started
-
-- [Setup Guide](assignments/00.md)
-
-### Slides
-
-All slides from the lessons will be
-[available here](https://docs.google.com/presentation/d/1j6IOOPr7oZ_GHTBKe0tqeDygZihZNUB8D4SXXOksUOo/edit?usp=sharing).
-
-### Bootcamp
-
-If you have no prior experience in HTML, CSS, or JavaScript, or, you want to
-refresh your knowledge, then it is recommended you take the following free
-courses at Codecademy, in the suggested order below.
-
-1. [HTML & CSS | Code with Mosh](https://www.youtube.com/playlist?list=PLaSptwZwRsIzSioCK1Cp78S_lp_yZUTbX)
-2. [JavaScript | Code with Mosh](https://www.youtube.com/watch?v=W6NZfCO5SIk)
-3. [React | Code with Mosh](https://www.youtube.com/watch?v=SqcY0GlETPk)
-4. [Learn HTML on Codecademy](https://www.codecademy.com/learn/learn-html)
-5. [Learn CSS on Codecademy](https://www.codecademy.com/learn/learn-css)
-6. [Learn CSS: Flexbox and Grid on Codecademy](https://www.codecademy.com/learn/learn-css-flexbox-and-grid)
-7. [Learn JavaScript on Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
-8. [Learn React on Codecademy](https://www.codecademy.com/learn/react-101)
-
-### Videos
-
-In previous years, some videos were made to help explain specific concepts or
-integrations within the stater kit. The kit has changed somewhat from previous
-years, but the videos may still be useful:
-
-- [Configuring Vercel For Your Project/Repository (2023)](https://youtu.be/wBDSPLGXgok)
-- [Vercel Environment Variables Overview (2022)](https://youtu.be/qHtbwt_Tk6Y)
-- [Supabase (Database) UI Overview (2022)](https://youtu.be/idNq2M7EhZs)
-- [Next/Supabase API Overview (2022)](https://youtu.be/N4Oc7OMuBqw)
-- [Google Drive Integration Overview (2022)](https://youtu.be/4RjImTNU2ZA)
-- [Random Team Generator Overview (2022)](https://youtu.be/Kxd6vByPQIw)
