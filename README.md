@@ -40,7 +40,7 @@ General structure of the course will be:
 
 We encourage you to ask questions and discuss technical issues with your
 classmates and the course staff. You can do that on the
-[discussion forum for the course](https://github.com/product-jam-2025/course/discussions).
+[discussion forum for the course](https://github.com/product-jam-2026/course/discussions).
 
 ### Office Hours
 
@@ -51,7 +51,7 @@ emailing the course staff to schedule.
 ## Assignments
 
 - All technical assignments will be
-  [added here](https://github.com/product-jam-2025/course/tree/main/assignments)
+  [added here](https://github.com/product-jam-2026/course/tree/main/assignments)
 
 The majority of the grading of the course is related to team work. However,
 there are a number of assignments related to software development, where you are
@@ -65,7 +65,7 @@ graded individually. These assignments must be submitted in the following way:
   but you should also verify on a per-assignment basis)
 - On completion, submit your task by adding a comment with the following
   information to the open issue for the task
-  [here](https://github.com/product-jam-2025/course/issues):
+  [here](https://github.com/product-jam-2026/course/issues):
   - the URL to your GitHub repository
   - the public URL of the working application
 - All tasks must be submitted by end of day on the Tuesday before the class
@@ -81,9 +81,9 @@ graded individually. These assignments must be submitted in the following way:
 
 3. [Technical requirements document](assignments/03.md)
 <!--
-4. [Implement one end to end functional flow](https://github.com/product-jam-2025/course/tree/main/assignments/04.md)
-5. [Implement a screen to wireframes](https://github.com/product-jam-2025/course/tree/main/assignments/05.md)
-6. [Implement a screen to final design](https://github.com/product-jam-2025/course/tree/main/assignments/06.md)
+4. [Implement one end to end functional flow](https://github.com/product-jam-2026/course/tree/main/assignments/04.md)
+5. [Implement a screen to wireframes](https://github.com/product-jam-2026/course/tree/main/assignments/05.md)
+6. [Implement a screen to final design](https://github.com/product-jam-2026/course/tree/main/assignments/06.md)
    -->
 
 ### Grading criteria
