@@ -73,14 +73,6 @@ years, but the videos may still be useful:
 - [Google Drive Integration Overview (2022)](https://youtu.be/4RjImTNU2ZA)
 - [Random Team Generator Overview (2022)](https://youtu.be/Kxd6vByPQIw)
 
-## Discussion
-
-### Discussion Forum
-
-We encourage you to ask questions and discuss technical issues with your
-classmates and the course staff. You can do that on the
-[discussion forum for the course](https://github.com/product-jam-2026/course/discussions).
-
 ## Assignments
 
 - All technical assignments will be
