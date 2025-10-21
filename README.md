@@ -81,12 +81,6 @@ We encourage you to ask questions and discuss technical issues with your
 classmates and the course staff. You can do that on the
 [discussion forum for the course](https://github.com/product-jam-2026/course/discussions).
 
-### Office Hours
-
-If you need help with any of the course materials, you can attend office hours.
-Office hours are held before class on wednesdays or online via Google Meet, by
-emailing the course staff to schedule.
-
 ## Assignments
 
 - All technical assignments will be
@@ -102,9 +96,9 @@ graded individually. These assignments must be submitted in the following way:
 - The application must be deployed and accessible via a public URL (this will
   happen automatically if Vercel is configured correctly for your application,
   but you should also verify on a per-assignment basis)
-- On completion, submit your task by adding a comment with the following
-  information to the open issue for the task
-  [here](https://github.com/product-jam-2026/course/issues):
+- To submit your task, add a comment to the open issue for the task
+  [here](https://github.com/product-jam-2026/course/issues), with the following
+  information:
   - the URL to your GitHub repository
   - the public URL of the working application
 - All tasks must be submitted by end of day on the Tuesday before the class
